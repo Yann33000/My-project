@@ -1,4 +1,4 @@
-# JS
+# JavaScript
 
 
 New JS documentation
