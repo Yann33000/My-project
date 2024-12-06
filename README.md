@@ -1,5 +1,4 @@
-# test
+# JavaScript
 
-qsdfsdfds
-jsdjhfsef
-drgrgrgre
+
+New JS documentation
